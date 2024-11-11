@@ -14,7 +14,7 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
         maven {
-            url 'https://github.com/ToanMobile/finos.sdk.ekyc/tree/liveness/v1.0.0/liveness'
+            url 'https://github.com/ToanMobile/finos.sdk.ekyc/raw/main/liveness'
         }
     }
 }

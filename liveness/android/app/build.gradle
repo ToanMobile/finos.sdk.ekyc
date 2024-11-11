@@ -42,3 +42,7 @@ android {
 flutter {
     source = "../.."
 }
+
+dependencies {
+    implementation("finos.sdk.ekyc:liveness:v1.0.0")
+}
