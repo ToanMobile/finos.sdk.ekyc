@@ -44,5 +44,5 @@ flutter {
 }
 
 dependencies {
-    implementation("finos.sdk.ekyc:liveness:v1.0.0")
+    implementation("finos.sdk.ekyc:liveness:1.0.0")
 }

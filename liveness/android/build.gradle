@@ -2,6 +2,9 @@ allprojects {
     repositories {
         google()
         mavenCentral()
+        maven {
+            url 'https://github.com/ToanMobile/finos.sdk.ekyc/raw/liveness/liveness'
+        }
     }
 }
 
